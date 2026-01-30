@@ -1,4 +1,4 @@
-# Eric Jang - Data Project
+# Eric Jang - Data Portfolio Project
 **Hello World! 😃👋**
 
 This is the space for my data portfolio projects.
