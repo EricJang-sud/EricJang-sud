@@ -1,1 +1,1 @@
-# Eric-Jang---Data-Project
+# Eric Jang - Data Project
