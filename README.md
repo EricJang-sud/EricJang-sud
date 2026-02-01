@@ -15,4 +15,4 @@ Python · SQL · Pandas · Excel · Tableau · Power BI
 ## 📬 Contact
 
 - **Email:** thericman05@gmail.com
-- **LinkedIn:** [Your LinkedIn](#)
+- **LinkedIn:** [Your LinkedIn]([#](https://www.linkedin.com/in/eric-jang666/))
