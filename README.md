@@ -1,6 +1,18 @@
-# Eric Jang - Data Portfolio Project
-**Hello World! 😃👋**
+# 👋 Hi, I'm [Your Name]
 
-This is the space for my data portfolio projects.
+A short bio — who you are, what you do, and what you're passionate about.
 
-Projects to be uploaded in due course. Stay tuned!
+## 🛠 Skills
+
+Python · SQL · Pandas · Excel · Tableau · Power BI
+
+## 📊 Projects
+
+| Project | Description | Tools | Link |
+|---|---|---|---|
+| [Project 1](#) | Short description of what it does | Python, Pandas | [Repo](#) |
+
+## 📬 Contact
+
+- **Email:** thericman05@gmail.com
+- **LinkedIn:** [Your LinkedIn](#)
