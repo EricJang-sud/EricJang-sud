@@ -17,4 +17,4 @@ Python · SQL · Excel · Power BI · R · Adobe Creative Cloud · Figma · Canv
 ## 📬 Contact
 
 - **Email:** thericman05@gmail.com
-- **LinkedIn:** Connect me [here](https://www.linkedin.com/in/eric-jang666/)
+- **LinkedIn:** Connect me [www.linkedin.com](https://www.linkedin.com/in/eric-jang666/)
