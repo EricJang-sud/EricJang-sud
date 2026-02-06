@@ -8,11 +8,17 @@ A short bio — TBD
 
 Python · SQL · Excel · Power BI · R · Adobe Creative Cloud · Figma · Canva
 
-## 📊 Projects
+## 📊 Data Projects
 
 | Project | Description | Tools | Link |
 |---|---|---|---|
 | Performance Monitoring System via Power BI Dashboard | Work placement project for a deer meat processor in Canterbury, NZ (TBD) | Python, Power BI, Excel | [Coming Soon!](#) |
+
+## 📊 Automation Projects
+
+| Project | Description | Tools | Link |
+|---|---|---|---|
+| Automated File Management System | Python-based tool that automatically organizes files by size with intelligent categorization, comprehensive logging, and rollback capabilities. | Python | [Coming Soon!](#) |
 
 ## 📬 Contact
 
