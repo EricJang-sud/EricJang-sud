@@ -18,7 +18,7 @@ Python · SQL · Excel · Power BI · R · Adobe Creative Cloud · Figma · Canv
 
 | Project | Description | Tools | Link |
 |---|---|---|---|
-| Automated File Management System | Python-based tool that automatically organizes files by size with intelligent categorization, comprehensive logging, and rollback capabilities. | Python | [Coming Soon!](#) |
+| Automated File Management System | Python tool for automatically organizing files by size. | Python | [Coming Soon!](#) |
 
 ## 📬 Contact
 
