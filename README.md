@@ -21,8 +21,6 @@ Python · SQL · Excel · Power BI · R · Adobe Creative Cloud · Figma · Canv
 | Automated File Management System | Python-based tool automatically organizing files by file size. | Python | [Coming Soon!](#) |
 | Folder Analysis Report Generator | Python-based tool converting time-consuming manual file analysis into professional storage reports generated in minutes. | Python | [Coming Soon!](#) |
 
-"""A Python automation tool that transforms hours of manual file analysis into automated, professional storage reports delivered in minutes."""
-
 ## 📬 Contact
 
 - **Email:** thericman05@gmail.com
