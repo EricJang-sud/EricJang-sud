@@ -20,10 +20,10 @@ Python · SQL · Excel · Power BI · R · Adobe Creative Cloud · Figma · Canv
 
 | Project | Description | Tool |
 |---|---|---|
-| Automated File Size Management System | Python-based tool automatically organizing files by file size within seconds. | Python |
-| Folder Analysis Report Generator | Python-based tool converting time-consuming manual file analysis into storage performance PDF reports generated in minutes. | Python |
-| File & Folder Migration Tool | Python-based tool organizing files and folders in seconds. | Python |
-| File Sorter by File Type | Python-based tool sorting all files in a given directory into category folders based on file extension in seconds. | Python |
+| [Automated File Size Management System](https://github.com/EricJang-sud/Automated-File-Management-by-Size) | Python-based tool automatically organizing files by file size within seconds. | Python |
+| [Folder Analysis Report Generator](https://github.com/EricJang-sud/Folder-Analysis-Report-Generator) | Python-based tool converting time-consuming manual file analysis into storage performance PDF reports generated in minutes. | Python |
+| [File & Folder Migration Tool](https://github.com/EricJang-sud/FIle-Folder-Migration) | Python-based tool organizing files and folders in seconds. | Python |
+| [File Sorter by File Type](https://github.com/EricJang-sud/File-Type-Sorter) | Python-based tool sorting all files in a given directory into category folders based on file extension in seconds. | Python |
 
 ## 📬 Contact
 
