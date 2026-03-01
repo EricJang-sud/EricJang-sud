@@ -8,17 +8,21 @@ A short bio — TBD
 
 Python · SQL · Excel · Power BI · R · Adobe Creative Cloud · Figma · Canva
 
+<!-- 
 ## 📊 Data Projects
 
 | Project | Description | Tools | Link |
 |---|---|---|---|
 | Performance Monitoring System via Power BI Dashboard | Work placement project for a deer meat processor in Canterbury, NZ (TBD) | Python, Power BI, Excel | [Coming Soon!](#) |
+-->
 
 ## 📊 Automation Projects
 
 | Project | Description | Tools | Link |
 |---|---|---|---|
 | Automated File Management System | Python-based tool automatically organizing files by file size within seconds. | Python | [Coming Soon!](#) |
+| Folder Analysis Report Generator | Python-based tool converting time-consuming manual file analysis into professional storage PDF reports generated in minutes. | Python | [Coming Soon!](#) |
+| Folder Analysis Report Generator | Python-based tool converting time-consuming manual file analysis into professional storage PDF reports generated in minutes. | Python | [Coming Soon!](#) |
 | Folder Analysis Report Generator | Python-based tool converting time-consuming manual file analysis into professional storage PDF reports generated in minutes. | Python | [Coming Soon!](#) |
 
 ## 📬 Contact
