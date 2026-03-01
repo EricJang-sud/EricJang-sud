@@ -2,7 +2,7 @@
 <!-- who you are, what you do, and what you're passionate about. -->
 📍From Auckland, NZ.
 
-A short bio — TBD
+A short bio will be updated soon — TBD
 
 ## 🛠 Skills
 
