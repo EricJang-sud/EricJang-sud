@@ -18,7 +18,7 @@ Python · SQL · Excel · Power BI · R · Adobe Creative Cloud · Figma · Canv
 
 ## 📊 Automation Projects
 
-| Project | Description | Tools |
+| Project | Description | Tool |
 |---|---|---|
 | Automated File Size Management System | Python-based tool automatically organizing files by file size within seconds. | Python |
 | Folder Analysis Report Generator | Python-based tool converting time-consuming manual file analysis into storage performance PDF reports generated in minutes. | Python |
