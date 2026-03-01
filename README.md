@@ -20,10 +20,10 @@ Python · SQL · Excel · Power BI · R · Adobe Creative Cloud · Figma · Canv
 
 | Project | Description | Tools | Link |
 |---|---|---|---|
-| Automated File Management System | Python-based tool automatically organizing files by file size within seconds. | Python | [Coming Soon!](#) |
-| Folder Analysis Report Generator | Python-based tool converting time-consuming manual file analysis into professional storage PDF reports generated in minutes. | Python | [Coming Soon!](#) |
-| Folder Analysis Report Generator | Python-based tool converting time-consuming manual file analysis into professional storage PDF reports generated in minutes. | Python | [Coming Soon!](#) |
-| Folder Analysis Report Generator | Python-based tool converting time-consuming manual file analysis into professional storage PDF reports generated in minutes. | Python | [Coming Soon!](#) |
+| Automated File Size Management System | Python-based tool automatically organizing files by file size within seconds. | Python | [Coming Soon!](#) |
+| Folder Analysis Report Generator | Python-based tool converting time-consuming manual file analysis into storage performance PDF reports generated in minutes. | Python | [Coming Soon!](#) |
+| File & Folder Migration Tool | Python-based tool organizing files and folders in seconds. | Python | [Coming Soon!](#) |
+| File Sorter by File Type | Python-based tool sorting all files in a given directory into category folders based on file extension in seconds. | Python | [Coming Soon!](#) |
 
 ## 📬 Contact
 
