@@ -2,7 +2,11 @@
 <!-- who you are, what you do, and what you're passionate about. -->
 📍From Auckland, NZ.
 
-A short bio will be updated soon — TBD
+I am an AI-enabled business analyst with a strong interest in improving how things work behind the scenes.
+
+My published projects focus on automating manual file management workflow using Python, helping individuals reduce manual admin time from minutes/hours to a few seconds.
+
+I am particularly interested in roles where I can combine analytical thinking with hands-on implementation.
 
 ## 🛠 Skills
 
@@ -20,10 +24,14 @@ Python · SQL · Excel · Power BI · R · Adobe Creative Cloud · Figma · Canv
 
 | Project | Description | Tool |
 |---|---|---|
-| [Automated File Size Management System](https://github.com/EricJang-sud/Automated-File-Management-by-Size) | Python-based tool automatically organizing files by file size within seconds. | Python |
+| [File Size Sorter](https://github.com/EricJang-sud/Automated-File-Management-by-Size) | Python-based tool automatically organizing files by file size within seconds. | Python |
 | [Folder Analysis Report Generator](https://github.com/EricJang-sud/Folder-Analysis-Report-Generator) | Python-based tool converting time-consuming manual file analysis into storage performance PDF reports generated in minutes. | Python |
-| [File & Folder Migration Tool](https://github.com/EricJang-sud/FIle-Folder-Migration) | Python-based tool organizing files and folders in seconds. | Python |
-| [File Sorter by File Type](https://github.com/EricJang-sud/File-Type-Sorter) | Python-based tool sorting all files in a given directory into category folders based on file extension in seconds. | Python |
+| [File & Folder Migration](https://github.com/EricJang-sud/FIle-Folder-Migration) | Python-based tool organizing files and folders in seconds. | Python |
+| [File Type Sorter](https://github.com/EricJang-sud/File-Type-Sorter) | Python-based tool sorting all files in a given directory into category folders based on file extension in seconds. | Python |
+
+## 🎓 Education
+**Master of Business Analytics (Supply Chain Management) with Distinction**  
+Apr 2024 – Nov 2025
 
 ## 📬 Contact
 
