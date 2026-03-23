@@ -12,6 +12,13 @@ I am particularly interested in roles where I can combine analytical thinking wi
 
 Python · SQL · Excel · Power BI · R · Adobe Creative Cloud · Figma · Canva
 
+
+## 📊 Data Project
+
+| Project | Description | Tools |
+|---|---|---|
+| [Automated Watercare Bill Dashboard](https://github.com/EricJang-sud/Automated-Water-Bill-Dashboard) | Automated ETL pipeline from Watercare PDF invoices to a Power BI dashboard for tracking water costs and usage. | Python · SQL · Power BI |
+
 <!-- 
 ## 📊 Data Projects
 
@@ -20,7 +27,7 @@ Python · SQL · Excel · Power BI · R · Adobe Creative Cloud · Figma · Canv
 | Performance Monitoring System via Power BI Dashboard | Work placement project for a deer meat processor in Canterbury, NZ (TBD) | Python, Power BI, Excel | [Coming Soon!](#) |
 -->
 
-## 📊 Automation Projects
+## ⚙️ Automation Projects
 
 | Project | Description | Tool |
 |---|---|---|
